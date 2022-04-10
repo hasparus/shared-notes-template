@@ -1,3 +1,7 @@
 {
-  "recommendations": ["vsls-contrib.gistfs", "foam.foam-vscode"]
+  "recommendations": [
+    "vsls-contrib.gistfs",
+    "foam.foam-vscode",
+    "philipbe.theme-gray-matter"
+  ]
 }
